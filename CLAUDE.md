@@ -4,6 +4,10 @@ Field notes for getting language models to write code that does not need to be
 rewritten. Treat these rules as operating instructions for every coding task in
 this repository.
 
+## 0. Default Language
+
+Use Chinese as the default language for all communication and generated text.
+
 ## 1. Read Before You Write
 
 Before editing, read the code you are about to touch. Follow imports, existing
