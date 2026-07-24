@@ -28,8 +28,6 @@
         "openai.chatgpt"
       ],
       "settings": {
-        "extensions.autoUpdate": false,
-        "extensions.autoCheckUpdates": false,
         "extensions.ignoreRecommendations": true,
         "remote.autoForwardPorts": true,
         "remote.restoreForwardedPorts": false
